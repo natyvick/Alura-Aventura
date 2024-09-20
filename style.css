@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(0, 210, 248);
-    color:black;
+    background-color: rgb(126, 5, 173);
+    color:rgb(255, 255, 255);
     font-family: "Raleway", sans-serif;
     display: flex;
     justify-content: center;
@@ -10,7 +10,7 @@ body {
 }
 
 button {
-    background-color: rgb(0, 210, 248);
+    background-color: rgb(248, 0, 232);
     color: white;
     font-family:"Raleway", sans-serif; 
 }
